@@ -8,7 +8,7 @@ MARS is primarily for {academics, industry watchers, governments} doing empirica
 
 Unlike going to multiple different websites to track down data or writing complex code to identify and measure KPIs from scratch, users can do this discovery, data archiving + retrieval, and analysis through the MARS website's intuitive interface -- without having to write code. Users with coding ability can also directly connect to our well-documented APIs to power their own systems.
 
-Most of the code for the MARS project itself is open source. The MARS organization is in the process of becoming a 501(c)3 US-based non-profit, with board members nominated + elected though a democratic process by its core contributors / maintainers -- or as we like to call ourselves, **[Martians](https://mapping-and-analyzing-research-software.github.io/team/)**.
+Most of the code for the MARS project itself is open source. The MARS organization is in the process of becoming a 501(c)3 US-based non-profit, with board members nominated + elected through a democratic process by its core contributors / maintainers -- or as we like to call ourselves, **[Martians](https://mapping-and-analyzing-research-software.github.io/team/)**.
 
 # How Martians work
 
